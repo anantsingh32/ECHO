@@ -1,4 +1,4 @@
-# HEAR ME — Communication Bridge MVP
+# ECHO — AI-Powered Communication Bridge
 
 A React + FastAPI accessibility communication demo.
 
